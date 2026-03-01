@@ -19,7 +19,3 @@ This project is fully optimized for Google Colab. No local installation of Pygam
 ## 🎥 Demo Video
 Watch the 1-minute live demonstration and code explanation here: 
 [Insert your YouTube Link Here]
-
-## 👨‍💻 Author
-* **Name:** [Your Name / 你的拼音]
-* **Student ID:** [Your Student ID / 你的学号]
